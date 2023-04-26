@@ -1,5 +1,6 @@
 {
-	"id": "0001",
+	"users":{
+        "id": "0001",
 	"type": "donut",
 	"name": "Cake",
 	"ppu": 0.55,
@@ -23,4 +24,5 @@
 			{ "id": "5003", "type": "Chocolate" },
 			{ "id": "5004", "type": "Maple" }
 		]
+    }
 }
